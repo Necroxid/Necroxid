@@ -4,6 +4,8 @@
 - 🌱 Currently learning: <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">Objective C++</a>, <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#</a>, <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">R</a>, <a href="https://www.rust-lang.org/learn" target="_blank" rel="noreferrer">Rust</a>, <a href="https://www.fuze.co.uk/nintendo-switch.html" target="_blank" rel="noreferrer">Fuze<sup>4</sup></a> and <a href="https://cmake.org/cmake/help/latest/guide/tutorial/index.html" target="_blank" rel="noreferrer">CMake</a>
 - 💻 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">Visual Studio Code</a> is my only coding platform
 
+### Please read also the <a href="https://github.com/Necroxid/hello-world-ABOUT_ME/" target="_blank" rel="noreferrer">hello-world-ABOUT_ME</a> README
+
 ## My Programming Skills, based on <a href="https://github.com/Semalab/developer-skills-matrix/blob/main/rubric/rubric.md">The Developer Skill Matrix</a>
 - ### Intermediate level
 
