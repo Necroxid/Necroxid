@@ -73,6 +73,9 @@
 <a href="https://t.me/Necroxid" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" alt="Telegram" width="40" height="40"/>
 </a>
+<a href="https://discordapp.com/users/435875845106696193" target="_blank" rel="noreferrer">
+  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="40" height="40"/>
+</a>
 
 ## 📈 My Stats
 
