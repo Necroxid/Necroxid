@@ -12,7 +12,7 @@
 
 - ⚡ I like reading books, comics and manga
 - ♨️ Sometimes I watch anime
-- 🎵 I like listening music on repeat
+- 🎵 I like listening to music on repeat
 
 ## My Programming Skills, based on <a href="https://github.com/Semalab/developer-skills-matrix/blob/main/rubric/rubric.md">The Developer Skill Matrix</a>
 - ### Intermediate level
