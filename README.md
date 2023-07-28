@@ -78,7 +78,7 @@
 
 ## 📫 Where to find me
 <a href="https://twitter.com/Necroxid/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter" width="40" height="40"/>
 </a>
 <a href="https://t.me/Necroxid" target="_blank" rel="noreferrer">
   <img src="https://cdn.cdnlogo.com/logos/t/84/telegram.svg" alt="Telegram" width="40" height="40"/>
