@@ -8,7 +8,7 @@
 
 ## Hobbies
 - 🎮 I like playing videogames and in the future I want to be a game programmer
-- 👾 Currently learning <a href="https://www.fuze.co.uk/nintendo-switch.html" target="_blank" rel="noreferrer"><img src="https://presswire.com/sites/presswire.com/files/release-images/2019-08/FUZElogo1_1.png" alt="Fuze4" width="50" height="20"/></a> and <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/5efc0159f9a97ba05a8b2902/5f1a938248b9f810a0a79439_rpg-maker-mv-logo-en.png" alt="RPG-Maker-MV" width="182" height="20"/></a> for game programming
+- 👾 Currently learning <a href="https://www.fuze.co.uk/nintendo-switch.html" target="_blank" rel="noreferrer"><img src="https://presswire.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/0e5a817c2be62ebd41890f2a69105a4e.9bc6.png" alt="Fuze4" width="50" height="20"/></a> and <a href="https://www.rpgmakerweb.com/products/rpg-maker-mv" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/5efc0159f9a97ba05a8b2902/5f1a938248b9f810a0a79439_rpg-maker-mv-logo-en.png" alt="RPG-Maker-MV" width="182" height="20"/></a> for game programming
 
 - ⚡ I like reading books, comics and manga
 - ♨️ Sometimes I watch anime
